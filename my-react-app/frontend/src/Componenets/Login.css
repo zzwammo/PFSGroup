@@ -52,8 +52,8 @@
     width: 75px; /* Adjust the size as needed */
     height: auto;
     position: absolute;
-    top: 245px; /* Adjust the top position */
-    left: 63%;
+    top: 281px; /* Adjust the top position */
+    left: 56%;
     transform: translateX(-50%);
     z-index: 1;
   }

@@ -17,7 +17,7 @@ function Login() {
         <div className="App">
             <header className="App-header">
                 <img src={logo} alt="Company Logo" className="company-logo" />
-                <h1>Welcome to RaffCo's Stock Page</h1>
+                <h1>Welcome to Our Meat Page</h1>
                 <div className="login-container">
                     <h2>Login</h2>
                     <form onSubmit={handleLogin}>
